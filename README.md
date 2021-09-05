@@ -1,2 +1,2 @@
-# Cope-Client
+# Cope Client
 test
